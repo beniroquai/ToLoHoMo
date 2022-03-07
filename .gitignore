@@ -1,0 +1,5 @@
+*.tif
+*.tiff
+*.hdf5
+.DS_Store
+
